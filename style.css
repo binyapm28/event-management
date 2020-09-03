@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+
+}
+.text-hover{
+    transition: 1s;
+} 
+
+.text-hover:hover{
+    color: white;
+    
+} 
+.btn{
+    background-color: transparent;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    transition: 1s;
+}
+.btn:hover{
+    color: white;
+    border: 1px solid;
+}
+.image-container{
+    letter-spacing: 5px;
+    border-top: 2px solid white;
+    
+}
+.number-border{
+    border-bottom: 2px solid white;
+}
